@@ -17,9 +17,9 @@ body {
   font-family:Nexa !important;
 }
 
-/* Common button style */
+/* Common button style  #E9741C */
 .five9-action-btn {
-    background-color: #E9741C !important;
+    background-color: #9b59b6 !important;
     border-radius: 0 0 0 15px !important;
     color:#fff;
 }
