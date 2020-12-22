@@ -105,13 +105,13 @@ div.message-container {
 /* End chat bottom buttons and text */
 a.five9-link-btn.start-over-button {
     background-color: #E9741C !important;
-    padding: 9px !important;
+    padding: 8px !important;
     color: #fff !important;
     border-radius: 0 0 0 15px !important;
 }
 a#footer-close-button {
     background-color: #002f6c !important;
-    padding: 9px !important;
+    padding: 8px !important;
     color: #fff !important;
     border-radius: 0 0 0 15px !important;
 }
